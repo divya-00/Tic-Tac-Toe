@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game #
 
-**Description**
+**Description**\
 This is a simple implementation of the classic Tic-Tac-Toe game in Python. The game supports two modes: Computer vs Player and Player vs Player. Players can make their moves and try to win by getting three of their symbols (X or O) in a row, column, or diagonal.
 
 **How to Play**
@@ -11,7 +11,7 @@ This is a simple implementation of the classic Tic-Tac-Toe game in Python. The g
 * Follow the on-screen instructions to input your moves.
 * The game will continue until a player wins or the game ends in a draw.
 
-**Game Rules**
+**Game Rules**\
 The game board is a 3x3 grid, and players take turns placing their symbols (X or O) on empty spaces.
 A player wins if they have three of their symbols in a row (horizontally, vertically, or diagonally).
 If all spaces on the board are filled and no player has won, the game ends in a draw.
@@ -22,10 +22,10 @@ If all spaces on the board are filled and no player has won, the game ends in a 
 - Navigate to the directory where the script is located.
 - Run the script using the command: python tic_tac_toe.py
 
-***Requirements***
+***Requirements***\
 Python 3.x
 
-***Author***
-DEVI DIVYA SRI PERNI 
-devidivyasri03@gmail.com
+>***Author***\
+> DEVI DIVYA SRI PERNI \
+> devidivyasri03@gmail.com
 
