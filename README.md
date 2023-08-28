@@ -16,13 +16,13 @@ The game board is a 3x3 grid, and players take turns placing their symbols (X or
 A player wins if they have three of their symbols in a row (horizontally, vertically, or diagonally).
 If all spaces on the board are filled and no player has won, the game ends in a draw.
 
-***How to Run***
+**How to Run**
 - Make sure you have Python installed on your machine.
 - Open a terminal or command prompt.
 - Navigate to the directory where the script is located.
 - Run the script using the command: python tic_tac_toe.py
 
-***Requirements***\
+**Requirements**\
 Python 3.x
 
 >***Author***\
