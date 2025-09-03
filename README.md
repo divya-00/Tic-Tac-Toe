@@ -27,7 +27,7 @@ A simple **Python-based Tic-Tac-Toe game** designed for quick play in a terminal
 2. Open the folder in your preferred Python environment (like Google Colab or IDLE).
 
 
-**How to Play**
+## How to Play
 * Run the script in a Python environment.
 * Choose the game mode:
   - Computer vs Player: The computer will play against you.
