@@ -7,6 +7,7 @@ A simple **Python-based Tic-Tac-Toe game** designed for quick play in a terminal
 
 ## Table of Contents
 
+- [Live Demo](#live-demo)
 - [Installation](#installation)
 - [How to Play](#how-to-play)
 - [Requirements](#requirements)
@@ -14,6 +15,10 @@ A simple **Python-based Tic-Tac-Toe game** designed for quick play in a terminal
 - [Tech Stack](#tech-stack)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Live Demo
+
+[Click here to play](https://colab.research.google.com/drive/1uqM6ww26kQ4bPzp7aY17uSyV9aLh6MrL?usp=sharing)
 
 ## Installation
 
