@@ -9,8 +9,6 @@ A simple **Python-based Tic-Tac-Toe game** designed for quick play in a terminal
 
 - [Installation](#installation)
 - [How to Play](#how-to-play)
-- [Game Rules](#gamerules)
-- [How to Run](#howtorun)
 - [Requirements](#requirements)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
@@ -46,7 +44,7 @@ If all spaces on the board are filled and no player has won, the game ends in a 
 - Navigate to the directory where the script is located.
 - Run the script using the command: python tic_tac_toe.py
 
-**Requirements**\
+## Requirements
 Python 3.x
 
 ## Features
