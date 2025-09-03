@@ -68,8 +68,8 @@ Found a bug or want to add features like AI-based gameplay? Open an issue or sub
 
 ## License
 
-This project is licensed under the terms of the [MIT License](LICENSE).
-Copyright © 2024 **Devi Divya Sri Perni**
+This project is licensed under the terms of the [MIT license](LICENSE).
+Copyright © rights are reserved, made with :heart: DeviDivyaSri Perni.
 
 
 
