@@ -8,7 +8,7 @@ A simple **Python-based Tic-Tac-Toe game** designed for quick play in a terminal
 ## Table of Contents
 
 - [Installation](#installation)
-- [How to Play](#howtoplay)
+- [How to Play](#how to play)
 - [Game Rules](#gamerules)
 - [How to Run](#howtorun)
 - [Requirements](#requirements)
