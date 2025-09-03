@@ -1,7 +1,31 @@
 # Tic-Tac-Toe Game #
 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 **Description**\
-This is a simple implementation of the classic Tic-Tac-Toe game in Python. The game supports two modes: Computer vs Player and Player vs Player. Players can make their moves and try to win by getting three of their symbols (X or O) in a row, column, or diagonal.
+A simple **Python-based Tic-Tac-Toe game** designed for quick play in a terminal or Google Colab environment. It’s lightweight and beginner-friendly, making it a great learning project for Python basics.The game supports two modes: Computer vs Player and Player vs Player. Players can make their moves and try to win by getting three of their symbols (X or O) in a row, column, or diagonal.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [How to Play](#howtoplay)
+- [Game Rules](#gamerules)
+- [How to Run](#howtorun)
+- [Requirements](#requirements)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+1. Clone the repository:
+   bash
+   git clone https://github.com/divya-00/Tic-Tac-Toe.git
+`
+
+2. Open the folder in your preferred Python environment (like Google Colab or IDLE).
+
 
 **How to Play**
 * Run the script in a Python environment.
@@ -25,7 +49,29 @@ If all spaces on the board are filled and no player has won, the game ends in a 
 **Requirements**\
 Python 3.x
 
->***Author***\
-> DEVI DIVYA SRI PERNI \
-> devidivyasri03@gmail.com
+## Features
+
+* Two-player mode
+* Easy-to-understand code
+* Perfect for Python practice
+
+## Tech Stack
+
+* **Language:** Python 3.x
+* **Future Upgrade:**
+
+  * Add a GUI with Tkinter
+  * Create a multiplayer online version using Flask
+
+## Contributing
+
+Found a bug or want to add features like AI-based gameplay? Open an issue or submit a pull request!
+
+
+## License
+
+This project is licensed under the terms of the [MIT License](LICENSE).
+Copyright © 2024 **Devi Divya Sri Perni**
+
+
 
