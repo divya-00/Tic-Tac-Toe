@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Game #
+# Tic-Tac-Toe Python Game #
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
